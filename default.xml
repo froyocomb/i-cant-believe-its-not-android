@@ -123,5 +123,4 @@
   <project name="platform/system/core" path="system/core" revision="2015549667fb77706a9879e974a3875ebccd8198"/>
   <project name="platform/system/extras" path="system/extras" revision="8e325b2a5a6f7c333efe0db06007b049a8043e87"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="7bfc4e581771193145d1be28cf843aa75d9e9aca"/>
-  <project name="platform/vendor/htc/dream-open" path="vendor/htc/dream-open" revision="056aa432eef21d304e3731d07a8ff78c62268e4c"/>
 </manifest>
