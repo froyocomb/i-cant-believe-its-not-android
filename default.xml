@@ -19,7 +19,7 @@
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform/dalvik" path="dalvik" revision="2f099e24f514429c5c4d7d1502e32add5ad50ac6"/>
-  <project name="platform/development" path="development" revision="59008ebc2c43def1ca918d8f6bcdb5e14df394ef"/>
+  <project name="platform/development" path="development" revision="6ffae015b46e04c31668def201cd1b022a1dcac1"/>
   <project name="platform/external/aes" path="external/aes" revision="d053197388d73900c3b37cf71df80da76df2ee8a"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="069490a5ca2fd1988d29daf45d892f47ad665115"/>
   <project name="platform/external/bison" path="external/bison" revision="cea198a11f15a2eb071d98491ca9a8bc8cebfbc4"/>
@@ -69,7 +69,7 @@
   <project name="platform/external/sonivox" path="external/sonivox" revision="07c322c52f1746da095853e70d44686d32df5bdb"/>
   <project name="platform/external/speex" path="external/speex" revision="98913fed6520d8849fb2e246be943e04474aefa4"/>
   <project name="platform/external/sqlite" path="external/sqlite" revision="b7743da3573c9fa0a726181d8f4cd7190908f27d"/>
-  <project name="platform/external/srec" path="external/srec" revision="1bfedbd04122c0e177caf693423aabad3462d66d"/>
+  <project name="platform/external/srec" path="external/srec" revision="4a68b3365c8c50aa93505e99ead2565ab73dcdb0"/>
   <project name="platform/external/strace" path="external/strace" revision="34d6eabc451f16d5f168fc1595ee604f21bccc51"/>
   <project name="platform/external/tagsoup" path="external/tagsoup" revision="41cdf40d933f4029c37cf844f8cf3314114e4e0a"/>
   <project name="platform/external/tcpdump" path="external/tcpdump" revision="2949f58a438f6fd85f66a8b7ed4708042cde4b37"/>
