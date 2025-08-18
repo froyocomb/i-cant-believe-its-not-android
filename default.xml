@@ -19,7 +19,7 @@
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform/dalvik" path="dalvik" revision="2f099e24f514429c5c4d7d1502e32add5ad50ac6"/>
-  <project name="platform/development" path="development" revision="59008ebc2c43def1ca918d8f6bcdb5e14df394ef"/>
+  <project name="platform/development" path="development" revision="6ffae015b46e04c31668def201cd1b022a1dcac1"/>
   <project name="platform/external/aes" path="external/aes" revision="d053197388d73900c3b37cf71df80da76df2ee8a"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="069490a5ca2fd1988d29daf45d892f47ad665115"/>
   <project name="platform/external/bison" path="external/bison" revision="cea198a11f15a2eb071d98491ca9a8bc8cebfbc4"/>
@@ -63,7 +63,7 @@
   <project name="platform/external/ping" path="external/ping" revision="0baa1aef81c61170e9078704b28264d9e8864b69"/>
   <project name="platform/external/ppp" path="external/ppp" revision="8ad0dd2a5c5f23cd210aedba72a43e48026e7436"/>
   <project name="platform/external/protobuf" path="external/protobuf" revision="e3e6e3d8aa7ac32e0f80588f6403fc18f7e476a7"/>
-  <project name="platform/external/qemu" path="external/qemu" revision="b3ee93a038ab992ffdda9f232befdea6ea713b24"/>
+  <project name="platform/external/qemu" path="external/qemu" revision="b059facee5eb498c78c573617c62cc13eddc8644"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="6ba70af0814b6c3516af05a0c7a1b0a5b4c21095"/>
   <project name="platform/external/skia" path="external/skia" revision="5956d1c224aadf1d2712b46b32d3fc69a19915bd"/>
   <project name="platform/external/sonivox" path="external/sonivox" revision="07c322c52f1746da095853e70d44686d32df5bdb"/>
@@ -85,7 +85,7 @@
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="e0471d7274c2b859d8d6ace2fe2788e067558358"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="08a3e2f3037623a0db0b6a3578832080bbd62b3e"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="d915f3ac2fca2287f73f1e8d633275f6bdbafdb7"/>
-  <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="f53ebec38718ff5d6b2aff2fa62b92a75d007ca5"/>
+  <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="65f2d3aeee4a3179fe662e8f7cabce0a3e29a325"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="ec19f1e4f0f46544b0901f642cc4cbe1e42010d4"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="34a5108969fbfc6cf8140513b7246da805902b7a"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="bcdf0e36db34f2875fd1df75826043e75c6cdeb0"/>
