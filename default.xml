@@ -63,7 +63,7 @@
   <project name="platform/external/ping" path="external/ping" revision="0baa1aef81c61170e9078704b28264d9e8864b69"/>
   <project name="platform/external/ppp" path="external/ppp" revision="8ad0dd2a5c5f23cd210aedba72a43e48026e7436"/>
   <project name="platform/external/protobuf" path="external/protobuf" revision="e3e6e3d8aa7ac32e0f80588f6403fc18f7e476a7"/>
-  <project name="platform/external/qemu" path="external/qemu" revision="b059facee5eb498c78c573617c62cc13eddc8644"/>
+  <project name="platform/external/qemu" path="external/qemu" revision="b3ee93a038ab992ffdda9f232befdea6ea713b24"/>
   <project name="platform/external/safe-iop" path="external/safe-iop" revision="6ba70af0814b6c3516af05a0c7a1b0a5b4c21095"/>
   <project name="platform/external/skia" path="external/skia" revision="5956d1c224aadf1d2712b46b32d3fc69a19915bd"/>
   <project name="platform/external/sonivox" path="external/sonivox" revision="07c322c52f1746da095853e70d44686d32df5bdb"/>
