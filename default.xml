@@ -85,7 +85,7 @@
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="e0471d7274c2b859d8d6ace2fe2788e067558358"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="08a3e2f3037623a0db0b6a3578832080bbd62b3e"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="d915f3ac2fca2287f73f1e8d633275f6bdbafdb7"/>
-  <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="65f2d3aeee4a3179fe662e8f7cabce0a3e29a325"/>
+  <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="f53ebec38718ff5d6b2aff2fa62b92a75d007ca5"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="ec19f1e4f0f46544b0901f642cc4cbe1e42010d4"/>
   <project name="platform/hardware/ril" path="hardware/ril" revision="34a5108969fbfc6cf8140513b7246da805902b7a"/>
   <project name="platform/packages/apps/AlarmClock" path="packages/apps/AlarmClock" revision="bcdf0e36db34f2875fd1df75826043e75c6cdeb0"/>
