@@ -24,6 +24,8 @@ Ubuntu 12.04 usually bundles newer GCC version, like 4.6. However, for those bui
 
     sudo apt-get install gcc-4.4 g++-4.4 gcc-4.4-multilib g++-4.4-multilib  
 
+Android 1.5 Cupcake also requires Java 1.5 for building. It is recommended to install it and run the update-alternatives command for both `java` and `javac` to set it as default.
+
 Downloading Source
 ------------------
 
