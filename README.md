@@ -8,8 +8,10 @@ As of now, the following builds have been reconstructed:
 | Build ID & manifest branch               | Status              |
 | :--------------------------------------: | :-----------------: |
 | [`CRA71C`]  (March 13, 2009)             | Done                |
+| [`December 17 2008 build`]               | Done                |
 
 [`CRA71C`]: https://github.com/froyocomb/cupcake-den/tree/CRA71C
+[`December 17 2008 build`]: https://github.com/froyocomb/cupcake-den/tree/MASTER-20081217
 
 Preparing a Build Environment
 -----------------
