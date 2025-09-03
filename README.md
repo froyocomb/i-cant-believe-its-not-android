@@ -16,13 +16,17 @@ Preparing a Build Environment
 
 For installing dependencies, refer to the article ["Initializing a Build Environment"](https://web.archive.org/web/20140208084633/http://source.android.com/source/initializing.html) from the AOSP documentation.
 
-It is recommended to use an older Linux distribution. All builds have been tested on Ubuntu 12.04 ("Precise Pangolin"), which can be downloaded from [here](https://old-releases.ubuntu.com/releases/12.04/ubuntu-12.04.5-desktop-amd64.iso).
+It is recommended to use an older Linux distribution. All builds have been tested on Ubuntu 12.04 ("Precise Pangolin"), which can be downloaded from [here](https://old-releases.ubuntu.com/releases/12.04/ubuntu-12.04.5-desktop-amd64.iso), although for Cupcake especially, it is is recommended to install 10.04 instead. The repo script will however not work by default on 10.04.
 
 For the repositories to work, it is needed to replace any `archive.ubuntu.com` and `security.ubuntu.com` mentions in your repository list (which is under /etc/apt/sources.list) with `old-releases.ubuntu.com`. Then, it will be possible to install required dependencies.
 
 Ubuntu 12.04 usually bundles newer GCC version, like 4.6. However, for those builds, GCC 4.4 is more recommended. To download older GCC, execute:
 
     sudo apt-get install gcc-4.4 g++-4.4 gcc-4.4-multilib g++-4.4-multilib  
+
+For 10.04:
+
+    sudo apt-get install gcc-4.2 g++-4.2 gcc-4.2-multilib g++-4.2-multilib  
 
 Android 1.5 Cupcake also requires Java 1.5 for building. It is recommended to install it and run the update-alternatives command for both `java` and `javac` to set it as default.
 
@@ -54,7 +58,9 @@ As appropriate device trees are not available in the source, the only targets th
 
 To compile Android, type:
 
-    make CC=gcc-4.4 CXX=g++-4.4
+    make CC=gcc-4.2 CXX=g++-4.2
+
+The Cupcake build will then likely fail half way through on 12.04. Re-type the script again, although replace 4.2 with 4.4.
 
 Running
 -------
