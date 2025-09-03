@@ -7,7 +7,7 @@ As of now, the following builds have been reconstructed:
 
 | Build ID & manifest branch               | Status              |
 | :--------------------------------------: | :-----------------: |
-| [`CRA71C`]  (March 13, 2009)             | Work in progress    |
+| [`CRA71C`]  (March 13, 2009)             | Done                |
 
 [`CRA71C`]: https://github.com/froyocomb/cupcake-den/tree/CRA71C
 
