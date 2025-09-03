@@ -60,7 +60,7 @@
   <project name="platform/external/skia" path="external/skia" revision="262917823441f183fa67aa63b9c0ec4e52cce4c3"/>
   <project name="platform/external/sonivox" path="external/sonivox" revision="e442bb7cd6a085b33a4dd52c0e20a157ada7feb1"/>
   <project name="platform/external/sqlite" path="external/sqlite" revision="6005ac625aa553fe461b363385a8ed4a3c217a1f"/>
-  <project name="platform/external/srec" path="external/srec" revision="2ebd1d2ce82c4f10284c70a28ea62535349a7334"/>
+  <project name="platform/external/srec" path="external/srec" revision="8fc5a7f51e62cb4ae44a27bdf4176d04adc80ede"/>
   <project name="platform/external/strace" path="external/strace" revision="4a3ec90c3aa1cecc489f6fd19d785c6473ee8164"/>
   <project name="platform/external/tagsoup" path="external/tagsoup" revision="926d907a2fb69573f1c6337f064645dde18b1e5e"/>
   <project name="platform/external/tcpdump" path="external/tcpdump" revision="9799c4b4d38c4aa2acc7ec7d593983bd178e49f6"/>
