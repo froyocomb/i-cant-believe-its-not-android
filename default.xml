@@ -14,12 +14,11 @@
   <project name="platform/bionic" path="bionic" revision="a27d2baa0c1a2ec70f47ea9199b1dd6762c8a349"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="4205b865141ff2e255fe1d3bd16de18e217ef06a"/>
   <project name="platform/bootable/recovery" path="bootable/recovery" revision="23580ca27a0a8109312fdd36cc363ad1f4719889"/>
-  <project name="platform_build" path="build" remote="github" revision="android-1.0_fix"/>
+  <project name="platform_build" path="build" remote="github" revision="android-1.0_fix">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
   <project name="platform/dalvik" path="dalvik" revision="2ad60cfc28e14ee8f0bb038720836a4696c478ad"/>
   <project name="platform/development" path="development" revision="5c11852110eeb03dc5a69111354b383f98d15336"/>
-
   <project name="platform/external/aes" path="external/aes" revision="045e5c3c0c0154d54e7abd95bf6505ddfff27dee"/>
   <project name="platform/external/apache-http" path="external/apache-http" revision="417f3b92ba4549b2f22340e3107d869d2b9c5bb8"/>
   <project name="platform/external/bluez" path="external/bluez" revision="611c26d196ef15425ae92dec9f3cdf92bbbe489a"/>
@@ -101,7 +100,6 @@
   <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="0f58cfe01bb0f491330f7dcf85d54d0081459b57"/>
   <project name="platform/packages/providers/DownloadProvider" path="packages/providers/DownloadProvider" revision="57f55b3cb4f7e4136cde8d1ea12c1e70ec903362"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="6b8295c9350c603bdd930a29a877c8e95f4641ac"/>
-
   <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="7251cb2492beceb08520bade25df701508246914"/>
   <project name="platform/packages/providers/GoogleSubscribedFeedsProvider" path="packages/providers/GoogleSubscribedFeedsProvider" revision="f0d44cd75cfa07df3c9162bc2a03884c21a7fb8f"/>
   <project name="platform/packages/providers/ImProvider" path="packages/providers/ImProvider" revision="ef4989eb3bd594f384dd24ac3b2e7e13e180a026"/>
