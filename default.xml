@@ -13,7 +13,7 @@
   
   <project name="platform/bionic" path="bionic" revision="a27d2baa0c1a2ec70f47ea9199b1dd6762c8a349"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="4205b865141ff2e255fe1d3bd16de18e217ef06a"/>
-  <project name="platform/bootable/recovery" path="bootable/recovery" revision="23580ca27a0a8109312fdd36cc363ad1f4719889"/>
+  <project name="platform/bootable/recovery" path="recovery" revision="23580ca27a0a8109312fdd36cc363ad1f4719889"/>
   <project name="platform_build" path="build" remote="github" revision="android-1.0_fix">
     <copyfile dest="Makefile" src="core/root.mk"/>
   </project>
